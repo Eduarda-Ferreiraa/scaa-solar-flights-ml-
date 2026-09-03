@@ -1,0 +1,7 @@
+model,val_loss_min,epoch_best_val_loss,val_acc_best,epoch_best_val_acc,accuracy_val,f1_macro_val,f1_weighted_val,precision_macro_val,recall_macro_val
+API-5 Sequential Deep,0.2338,6,0.9102,6,0.9102,0.6671,0.913,0.6474,0.6911
+API-6.3 Residual + SoftCW (Medium+),0.2415,12,0.8979,7,0.8925,0.6638,0.9051,0.6497,0.7147
+API-6.2 Residual + SoftCW,0.2519,12,0.8988,13,0.8956,0.6591,0.904,0.6244,0.72
+API-6.4 Residual + SoftCW (Low+),0.2519,5,0.8929,5,0.8929,0.6546,0.9029,0.6379,0.6887
+API-7 Subclassing Deep,0.2314,8,0.9011,8,0.9011,0.6361,0.9023,0.6227,0.6672
+API-6 Functional Residual,0.2348,5,0.9052,3,0.8966,0.628,0.902,0.5994,0.6687
