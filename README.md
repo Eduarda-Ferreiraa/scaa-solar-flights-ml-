@@ -41,11 +41,8 @@ Projeto de grupo (Grupo 11):
 │   ├── best_model_flights.keras
 │   └── best_model_flights_v2.keras
 ├── docs/
-│   ├── relatorio.pdf / relatório_sistemas.docx
-│   ├── apresentacao.pdf      # Slides da apresentação
-│   ├── guião.docx            # Guião da apresentação oral
+│   ├── relatorio.pdf 
 │   ├── enunciado.pdf         # Enunciado do trabalho
-│   └── notas_modelacao.docx
 └── README.md
 ```
 
